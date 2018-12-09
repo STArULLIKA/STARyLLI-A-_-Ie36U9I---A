@@ -14,12 +14,7 @@
 
 
   <script>
- var head = $("head").html();
-    alert(head);
-    $("#list-header").css("font-weight", "bold");
-    $("#list-header").text("11");
-    $("ul li:nth-child(2)").text("Mykhailo");
-$("li").css("color","#555");
+ 
   </script>
 
 </body>
